@@ -1,4 +1,4 @@
-﻿# Normalization
+# Normalization
 
 Pre-processing applied to raw tiles before stitching.
 

@@ -1,3 +1,3 @@
-﻿# Webapp
+# Webapp
 
-FastAPI application â€” REST API and web dashboard.
+FastAPI application — REST API and web dashboard.

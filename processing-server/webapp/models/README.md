@@ -1,4 +1,4 @@
-﻿# Models
+# Models
 
 SQLite database schema and SQLModel model definitions.
 

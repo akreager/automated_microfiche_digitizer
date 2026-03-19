@@ -1,4 +1,4 @@
-﻿# Reference
+# Reference
 
 Datasheets, third-party documentation, and prior art.
 

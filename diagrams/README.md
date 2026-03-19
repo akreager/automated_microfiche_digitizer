@@ -1,4 +1,4 @@
-﻿# Diagrams
+# Diagrams
 
 System architecture diagrams, data flow diagrams, and state machine diagrams.
 

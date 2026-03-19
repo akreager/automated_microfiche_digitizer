@@ -1,4 +1,4 @@
-﻿# Camera
+# Camera
 
 Tile capture helpers wrapping `raspistill` / `rpicam-still`.
 

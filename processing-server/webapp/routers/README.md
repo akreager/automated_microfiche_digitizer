@@ -1,4 +1,4 @@
-﻿# Routers
+# Routers
 
 FastAPI route handlers.
 

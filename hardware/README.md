@@ -1,4 +1,4 @@
-﻿# Hardware
+# Hardware
 
 Notes on the physical digitizer hardware.
 

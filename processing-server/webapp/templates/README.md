@@ -1,4 +1,4 @@
-﻿# Templates
+# Templates
 
 Jinja2 HTML templates for the web dashboard.
 

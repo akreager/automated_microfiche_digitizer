@@ -1,4 +1,4 @@
-﻿# Motion
+# Motion
 
 G-code generation and serial communication with the printer motion controller via `pyserial`.
 

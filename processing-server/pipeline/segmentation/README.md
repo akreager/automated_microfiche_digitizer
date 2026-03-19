@@ -1,4 +1,4 @@
-﻿# Segmentation
+# Segmentation
 
 Document grid detection and per-document tile manifest generation.
 

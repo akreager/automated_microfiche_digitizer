@@ -1,4 +1,4 @@
-﻿# Processing Server
+# Processing Server
 
 FastAPI + SQLite server running on the Dell Optiplex MFF. This is the single point of operator interaction for the entire system.
 

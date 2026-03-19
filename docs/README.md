@@ -1,6 +1,6 @@
-﻿# Documentation Register
+# Documentation Register
 
-All project documentation for the MFDIG â€” Microfiche Digitizer project.
+All project documentation for the MFDIG — Microfiche Digitizer project.
 
 ## File Format
 
@@ -16,7 +16,7 @@ Documents are authored in Markdown (.md) unless the document type calls for a st
 | Field | Description |
 |---|---|
 | `TT` | Two-letter document type code |
-| `MFDIG` | Project identifier â€” fixed |
+| `MFDIG` | Project identifier — fixed |
 | `NN` | Two-digit sequence number, zero-padded |
 
 ## Document Type Codes
@@ -32,7 +32,7 @@ Documents are authored in Markdown (.md) unless the document type calls for a st
 
 | Document | Title | Paired With | Status |
 |---|---|---|---|
-| CR-MFDIG-01 | Camera Stack & Capture Node Hardware Compatibility | â€” | In Progress |
+| CR-MFDIG-01 | Camera Stack & Capture Node Hardware Compatibility | — | In Progress |
 
 ---
 *This README is a living document and must be updated when a document is added to the register.*

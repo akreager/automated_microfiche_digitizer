@@ -1,4 +1,4 @@
-﻿# Capture Node
+# Capture Node
 
 Lightweight Python agent software for the Raspberry Pi 3B+ capture nodes.
 
